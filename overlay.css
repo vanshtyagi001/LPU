@@ -1,0 +1,104 @@
+/*
+#222831 Black
+#393E46 Light Black
+#00ADB5 Sky Blues
+#EEEEEE Grey White
+*/
+/*Navigation Bar*/
+.tnav{
+    background-color: #333;
+    color: white;
+    font-family: Arial, sans-serif;
+
+}
+
+.tul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px; 
+}
+
+.tli{
+    display: inline-block;
+    padding: 10px;
+}
+
+.ta{
+    color: white;
+    text-decoration: none;
+    
+}
+.ta:hover{
+    background-color: #555;
+    color: rgb(255, 210, 127);
+    
+}
+
+/* 1. Map Contents  */
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color:white;
+}
+#mhr{
+    height: 5px;
+    background-color: #393e46;
+}
+.mmap{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+.hov:hover{
+    cursor: pointer;
+    color: tomato;
+    
+}
+
+.bo{
+    display: flexbox;
+    /*margin-left: 50px;*/
+    margin-right: 75px;
+    margin-top: 17px;
+    margin-bottom: 17px;
+    width: 40%;
+    border: 2px dotted #222831;
+    border-radius: 10px;
+}
+.be{
+    display: flexbox;
+    margin-left: 75px;
+    /*margin-right: 50px;*/
+    margin-top: 17px;
+    margin-bottom: 17px;
+    width: 40%;
+    border: 2px dotted #222831;
+    border-radius: 10px;
+}
+.bx{
+    display: flexbox;
+    margin-top: 17px;
+    margin-bottom: 17px;
+    width: 40%;
+    border: 2px dotted #222831;
+    border-radius: 10px;
+}
+.bx1{
+    display: flexbox;
+    margin-top: 17px;
+    margin-bottom: 17px;
+    width: 60%;
+    border: 2px dotted #222831;
+    border-radius: 10px;
+}
+/* .bm{
+
+} */
+#mbb{
+    font-family: Verdana;
+    color: #EEEEEE;
+    background-color:#00ADB5;
+}
