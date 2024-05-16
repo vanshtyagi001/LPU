@@ -244,6 +244,13 @@ body{
     .lpulogo{
         width:47%;
     }
+    .mmap{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    }
     .bo{
         display: flexbox;
         /*margin-left: 50px;*/
