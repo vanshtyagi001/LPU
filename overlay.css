@@ -123,13 +123,12 @@ body{
     border-style: inset;
     /* background-color: #393e46; */
 }
-/* .mmap{ */
-/*     
+.mmap{ 
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-} */
+}
 .hov:hover{
     cursor: pointer;
     color: tomato;
