@@ -192,12 +192,7 @@ body{
 
 /* Making Responnsive */
 @media all and (max-width:1800px){
-    .mmap{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 60%;
-    }
+    
     .bo{
         display: flexbox;
         /*margin-left: 50px;*/
@@ -243,13 +238,7 @@ body{
     .lpulogo{
         width:47%;
     }
-    .mmap{
-    
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-    }
+  
     .bo{
         display: flexbox;
         /*margin-left: 50px;*/
